@@ -43,3 +43,6 @@ em Breve
  <br/>**Digite index.html** <br/>
 
 ## 😄 Aproveite a Diversão! :)
+
+## 📄 Licença
+Apache License 2.0.
