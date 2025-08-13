@@ -37,9 +37,9 @@ em Breve
 
 ## 📦 Instalação
 
-Abra seu CMD e digite:
-git clone https://github.com/yoshyteru/Amigo-Secreto
-cd Amigo-Secreto
-Digite index.html
+   -Abra seu CMD e digite:
+   -git clone https://github.com/yoshyteru/Amigo-Secreto
+   -cd Amigo-Secreto
+   -Digite index.html
 
 ## 😄 Aproveite a Diversão! :)
