@@ -1,6 +1,6 @@
 # 🎄 Amigo Secreto Online 🎁
 
-Um projeto simples e divertido para sortear amigos secretos de forma digital!
+**Um projeto simples e divertido para sortear amigos secretos de forma digital!**
 
 ![Preview do Jogo](https://github.com/yoshyteru/Amigo-Secreto/blob/main/challenge-amigo-secreto_pt/assets/Interface.png)  
 
@@ -37,9 +37,9 @@ em Breve
 
 ## 📦 Instalação
 
-**Abra seu CMD e digite**:
-**git clone https://github.com/yoshyteru/Amigo-Secreto**
-**cd Amigo-Secreto**
-**Digite index.html**
+ <br/>**Abra seu CMD e digite**: <br/>
+ <br/>**git clone https://github.com/yoshyteru/Amigo-Secreto** <br/>
+ <br/>**cd Amigo-Secreto** <br/>
+ <br/>**Digite index.html** <br/>
 
 ## 😄 Aproveite a Diversão! :)
