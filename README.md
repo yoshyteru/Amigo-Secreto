@@ -9,8 +9,6 @@ Um projeto simples e divertido para sortear amigos secretos de forma digital!
 - ✅ Adicionar participantes facilmente
 - ✅ Sortear com um simples clique
 - ✅ Interface limpa e intuitiva
-- ✅ Design responsivo para qualquer dispositivo
-- ✅ Animação durante o sorteio para mais diversão
 
 ## 🎮 Como Usar
 
@@ -23,7 +21,7 @@ Um projeto simples e divertido para sortear amigos secretos de forma digital!
    - Clique no botão <kbd>Sortear</kbd> 🎲
 
 3. **Veja o resultado**:
-   - O amigo secreto aparecerá na tela com um efeito especial! ✨
+   - O amigo secreto aparecerá na tela! ✨
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -35,15 +33,13 @@ Um projeto simples e divertido para sortear amigos secretos de forma digital!
 </div>
 
 ## 🚀 Melhorias Futuras
-
-- [ ] Salvar lista de participantes localmente
-- [ ] Enviar resultados por e-mail
-- [ ] Temas festivos personalizáveis (Natal 🎄, Ano Novo 🎆, etc)
-- [ ] Opção de adicionar restrições (ex: não sortear para familiares)
+em Breve
 
 ## 📦 Instalação
 
-```bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
-cd amigo-secreto
-abra o arquivo index.html no navegador
+Abra seu CMD e digite:
+git clone https://github.com/yoshyteru/Amigo-Secreto
+cd Amigo-Secreto
+Digite index.html
+
+## 😄 Aproveite a Diversão! :)
