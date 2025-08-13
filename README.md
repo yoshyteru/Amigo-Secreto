@@ -2,7 +2,7 @@
 
 Um projeto simples e divertido para sortear amigos secretos de forma digital!
 
-![Preview do Jogo](https://via.placeholder.com/800x400.png?text=Amigo+Secreto+Online+Preview)  
+![Preview do Jogo](https://github.com/yoshyteru/Amigo-Secreto/blob/main/challenge-amigo-secreto_pt/assets/Interface.png)  
 
 ## ✨ Funcionalidades
 
