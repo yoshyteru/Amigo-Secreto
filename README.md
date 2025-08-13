@@ -39,7 +39,7 @@ em Breve
 
  <br/>**Abra seu CMD e digite**: <br/>
  <br/>**git clone https://github.com/yoshyteru/Amigo-Secreto** <br/>
- <br/>**cd Amigo-Secreto** <br/>
+ <br/>**cd Amigo-Secreto\challenge-amigo-secreto_pt** <br/>
  <br/>**Digite index.html** <br/>
 
 ## 😄 Aproveite a Diversão! :)
